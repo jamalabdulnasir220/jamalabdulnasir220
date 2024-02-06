@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jamalabdulnasir
-- 👀 I’m interested in mobile and web app development
-- 🌱 I have knowledge in the flutter framework and currently learning react js
-- 💞️ I’m looking to collaborate on mobile and web app development
+- 👀 An experienced mobile and web app development using flutter, react and nodejs.
+- 💞️ I’m looking to collaborate and learn new technologies.
 - 📫 How to reach me 
 
 <!---
