@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamalabdulnasir
-- 👀 An experienced mobile and web app development using flutter, react and nodejs.
+- 👀 An experienced frontend developer.
 - 💞️ I’m looking to collaborate and learn new technologies.
 - 📫 How to reach me 
 
